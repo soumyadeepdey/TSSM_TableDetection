@@ -1,2 +1,4 @@
 # TSSM_TableDetection
-This code was a version of this https://arxiv.org/submit/3341232/view 
+If you are using this code for then cite this paper
+
+https://arxiv.org/abs/2008.11842
